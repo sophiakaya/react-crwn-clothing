@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/crwn-clothing/static/css/main.d3e9e89b.chunk.css",
-    "main.js": "/crwn-clothing/static/js/main.0e5fda55.chunk.js",
-    "main.js.map": "/crwn-clothing/static/js/main.0e5fda55.chunk.js.map",
-    "runtime-main.js": "/crwn-clothing/static/js/runtime-main.1cb2d1d5.js",
-    "runtime-main.js.map": "/crwn-clothing/static/js/runtime-main.1cb2d1d5.js.map",
-    "static/js/2.0d6eef7a.chunk.js": "/crwn-clothing/static/js/2.0d6eef7a.chunk.js",
-    "static/js/2.0d6eef7a.chunk.js.map": "/crwn-clothing/static/js/2.0d6eef7a.chunk.js.map",
-    "index.html": "/crwn-clothing/index.html",
-    "precache-manifest.3272ca28142d530bb5368bce150b3c18.js": "/crwn-clothing/precache-manifest.3272ca28142d530bb5368bce150b3c18.js",
-    "service-worker.js": "/crwn-clothing/service-worker.js",
-    "static/css/main.d3e9e89b.chunk.css.map": "/crwn-clothing/static/css/main.d3e9e89b.chunk.css.map",
-    "static/js/2.0d6eef7a.chunk.js.LICENSE.txt": "/crwn-clothing/static/js/2.0d6eef7a.chunk.js.LICENSE.txt"
+    "main.css": "/react-crwn-clothing/static/css/main.d3e9e89b.chunk.css",
+    "main.js": "/react-crwn-clothing/static/js/main.77becc50.chunk.js",
+    "main.js.map": "/react-crwn-clothing/static/js/main.77becc50.chunk.js.map",
+    "runtime-main.js": "/react-crwn-clothing/static/js/runtime-main.67fd5baf.js",
+    "runtime-main.js.map": "/react-crwn-clothing/static/js/runtime-main.67fd5baf.js.map",
+    "static/js/2.12dd8ff6.chunk.js": "/react-crwn-clothing/static/js/2.12dd8ff6.chunk.js",
+    "static/js/2.12dd8ff6.chunk.js.map": "/react-crwn-clothing/static/js/2.12dd8ff6.chunk.js.map",
+    "index.html": "/react-crwn-clothing/index.html",
+    "precache-manifest.5f8c61679e027768df5572ca88049b75.js": "/react-crwn-clothing/precache-manifest.5f8c61679e027768df5572ca88049b75.js",
+    "service-worker.js": "/react-crwn-clothing/service-worker.js",
+    "static/css/main.d3e9e89b.chunk.css.map": "/react-crwn-clothing/static/css/main.d3e9e89b.chunk.css.map",
+    "static/js/2.12dd8ff6.chunk.js.LICENSE.txt": "/react-crwn-clothing/static/js/2.12dd8ff6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1cb2d1d5.js",
-    "static/js/2.0d6eef7a.chunk.js",
+    "static/js/runtime-main.67fd5baf.js",
+    "static/js/2.12dd8ff6.chunk.js",
     "static/css/main.d3e9e89b.chunk.css",
-    "static/js/main.0e5fda55.chunk.js"
+    "static/js/main.77becc50.chunk.js"
   ]
 }
