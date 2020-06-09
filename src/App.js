@@ -12,6 +12,8 @@ function App() {
       <Header />
       <Switch>
         <Route exact path="/" component={HomePage} />
+        <Route exact path="react-crwn-clothing/" component={HomePage} />
+        <Route exact path="react-crwn-clothing" component={HomePage} />
         <Route path="/shop" component={ShopPage} />
       </Switch>
     </div>
