@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-crwn-clothing/static/css/main.f5481c10.chunk.css",
-    "main.js": "/react-crwn-clothing/static/js/main.fb458a59.chunk.js",
-    "main.js.map": "/react-crwn-clothing/static/js/main.fb458a59.chunk.js.map",
+    "main.css": "/react-crwn-clothing/static/css/main.da3574bc.chunk.css",
+    "main.js": "/react-crwn-clothing/static/js/main.c533b8fe.chunk.js",
+    "main.js.map": "/react-crwn-clothing/static/js/main.c533b8fe.chunk.js.map",
     "runtime-main.js": "/react-crwn-clothing/static/js/runtime-main.67fd5baf.js",
     "runtime-main.js.map": "/react-crwn-clothing/static/js/runtime-main.67fd5baf.js.map",
-    "static/js/2.784fdd16.chunk.js": "/react-crwn-clothing/static/js/2.784fdd16.chunk.js",
-    "static/js/2.784fdd16.chunk.js.map": "/react-crwn-clothing/static/js/2.784fdd16.chunk.js.map",
+    "static/js/2.b7ed4d4d.chunk.js": "/react-crwn-clothing/static/js/2.b7ed4d4d.chunk.js",
+    "static/js/2.b7ed4d4d.chunk.js.map": "/react-crwn-clothing/static/js/2.b7ed4d4d.chunk.js.map",
     "index.html": "/react-crwn-clothing/index.html",
-    "precache-manifest.f46b397e5d854e200826b92bc3d9270e.js": "/react-crwn-clothing/precache-manifest.f46b397e5d854e200826b92bc3d9270e.js",
+    "precache-manifest.43072e3a9e98bf621412b730027124db.js": "/react-crwn-clothing/precache-manifest.43072e3a9e98bf621412b730027124db.js",
     "service-worker.js": "/react-crwn-clothing/service-worker.js",
-    "static/css/main.f5481c10.chunk.css.map": "/react-crwn-clothing/static/css/main.f5481c10.chunk.css.map",
-    "static/js/2.784fdd16.chunk.js.LICENSE.txt": "/react-crwn-clothing/static/js/2.784fdd16.chunk.js.LICENSE.txt",
+    "static/css/main.da3574bc.chunk.css.map": "/react-crwn-clothing/static/css/main.da3574bc.chunk.css.map",
+    "static/js/2.b7ed4d4d.chunk.js.LICENSE.txt": "/react-crwn-clothing/static/js/2.b7ed4d4d.chunk.js.LICENSE.txt",
     "static/media/crown.ed28accb.svg": "/react-crwn-clothing/static/media/crown.ed28accb.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.67fd5baf.js",
-    "static/js/2.784fdd16.chunk.js",
-    "static/css/main.f5481c10.chunk.css",
-    "static/js/main.fb458a59.chunk.js"
+    "static/js/2.b7ed4d4d.chunk.js",
+    "static/css/main.da3574bc.chunk.css",
+    "static/js/main.c533b8fe.chunk.js"
   ]
 }
